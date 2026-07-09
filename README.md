@@ -26,7 +26,7 @@ The dashboard provides an interactive experience through dynamic slicers, KPIs, 
 
 # 📈 Dashboard Preview
 
-C:\Users\telis\AppData\Local\Temp\e23b9dd3-586a-4616-94ea-8f1ba0b00164_week2.zip.164\Dashboardbi.png
+Dashboardbi[1].png
 
 ---
 
