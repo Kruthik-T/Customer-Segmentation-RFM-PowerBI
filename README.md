@@ -25,8 +25,9 @@ The dashboard provides an interactive experience through dynamic slicers, KPIs, 
 ---
 
 # 📈 Dashboard Preview
+## 📊 Dashboard Preview
 
-Dashboardbi[1].png
+![Dashboard Preview](Dashboard[1].png)
 
 ---
 
